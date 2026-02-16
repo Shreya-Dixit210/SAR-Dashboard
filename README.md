@@ -8,33 +8,33 @@ The dashboard updates account status in real-time using Streamlit session state 
 
 🚀 Features
 
-Admin panel for reviewing flagged accounts
+• Admin panel for reviewing flagged accounts
 
-Approve / Reject functionality
+• Approve / Reject functionality
 
-Dynamic status updates
+• Dynamic status updates
 
-Clean and interactive UI
+• Clean and interactive UI
 
-Session state data handling
+• Session state data handling
 
 🛠 Tech Stack
 
-Python
+• Python
 
-Streamlit
+• Streamlit
 
-Pandas
+• Pandas
 
 ⚙ How It Works
 
-Flagged accounts appear with "Pending" status.
+• Flagged accounts appear with "Pending" status.
 
-Admin can click Approve or Reject.
+• Admin can click Approve or Reject.
 
-The account status updates instantly.
+• The account status updates instantly.
 
-System view reflects the updated status during runtime.
+• System view reflects the updated status during runtime.
 
 
 
