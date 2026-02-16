@@ -38,7 +38,3 @@ The dashboard updates account status in real-time using Streamlit session state 
 
 
 
-
-Run the app:
-
-streamlit run app.py
